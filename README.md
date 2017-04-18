@@ -1,2 +1,2 @@
 # Machine Learning:
-Um exemplo de como utilziar inteligência artificial para reconhecer padrôes, utilizando a linguagem de programação PYTHON.
+Um exemplo de como utilziar inteligência artificial para reconhecer padrões, utilizando a linguagem de programação PYTHON.
